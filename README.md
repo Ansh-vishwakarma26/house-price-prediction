@@ -2,6 +2,10 @@
 
 A machine learning web application built with Python and Streamlit to predict house prices based on different house attributes.
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://jabalpur-house-price-prediction.streamlit.app/)
+
 ## 📌 Project Overview
 
 This project uses a Linear Regression model to predict house prices based on features such as:
@@ -47,6 +51,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/Ansh-vishwakarma26/house-price-prediction.git
 
-## 🚀 Live Demo
-
-👉 [Try the House Price Prediction App](https://jabalpur-house-price-prediction.streamlit.app/)
