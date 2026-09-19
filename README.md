@@ -45,4 +45,8 @@ The data was then divided into training and testing sets and a Linear Regression
 Clone the repository:
 
 ```bash
-git clone git clone https://github.com/Ansh-vishwakarma26/house-price-prediction.git
+git clone https://github.com/Ansh-vishwakarma26/house-price-prediction.git
+
+## 🚀 Live Demo
+
+👉 [Try the House Price Prediction App](https://jabalpur-house-price-prediction.streamlit.app/)
